@@ -1,0 +1,26 @@
+{
+  "name": "hagnash-review-bot",
+  "version": "0.0.0",
+  "description": "Telgram Bot To Review Hagnash Locations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joni7777/hagnash-review-bot.git"
+  },
+  "keywords": [
+    "Telgram",
+    "Bot",
+    "Hagnash",
+    "Review",
+    "Reviews"
+  ],
+  "author": "Jonathan Erel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joni7777/hagnash-review-bot/issues"
+  },
+  "homepage": "https://github.com/joni7777/hagnash-review-bot#readme"
+}
